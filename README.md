@@ -2,6 +2,9 @@
 
 Este é um aplicativo simples de lista de tarefas (To-Do List) construído com React. Ele permite adicionar, editar, marcar como concluído e excluir tarefas, além de filtrar as tarefas por status (pendentes ou concluídas).
 
+
+[![Teste Agora](https://i.imgur.com/NjMHH9O.png)](https://todolist-react-alicessena.vercel.app/)
+
 ## 🚀 Funcionalidades
 
 - **Adicionar Tarefa:** Você pode adicionar novas tarefas digitando no campo de entrada e pressionando "Enter" ou clicando no botão "Adicionar".
